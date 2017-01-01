@@ -2,6 +2,10 @@ package com.trial.baselook;
 
 /**
  * Created by adityaprasann on 25/12/16.
+ *
+ * Codility test noon.com
+ *
+ * Maximum sequence of coin after one flip
  */
 public class CoinAdj {
 

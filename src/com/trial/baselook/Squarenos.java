@@ -2,6 +2,9 @@ package com.trial.baselook;
 
 /**
  * Created by adityaprasann on 25/12/16.
+ *
+ * Codility test noon.com
+ * find the numbers of squares between two numbers
  */
 public class Squarenos {
 

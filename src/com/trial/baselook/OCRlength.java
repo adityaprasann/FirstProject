@@ -1,6 +1,8 @@
 package com.trial.baselook;
 
 /**
+ * Codility test noon.com
+ *
  * Created by adityaprasann on 25/12/16.
  */
 public class OCRlength {

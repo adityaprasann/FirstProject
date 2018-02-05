@@ -1,3 +1,5 @@
+package com.sampleds;
+
 public class BSTree {
 
     Node root;
